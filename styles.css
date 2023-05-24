@@ -1,5 +1,3 @@
-
-   
 header{
     font-family: 'Inter', sans-serif;
     font-size: 40px;
@@ -8,8 +6,7 @@ header{
     /* width: 100%; */
     padding-left: 30px;
     position: relative;
-    /* z-index: 18; */
-    
+    /* z-index: 18; */   
 }
 
 .letter2{
@@ -77,8 +74,8 @@ form{
     
 }
 .parent{
-    filter:blur(3px) brightness(20%);
-    margin-bottom: 0%;
+    filter:blur(10px) ;
+   
 
   
 }
@@ -124,7 +121,10 @@ left:20px;
 .pg3{
     background-color:lightgray;
     height: 100%;
-    padding: 200px 400px;   
+    padding: 200px 400px; 
+   
+     
+    
 }
 
 .backbuton{
@@ -161,7 +161,7 @@ p{
     font-size: 20px;
     font-family: 'Inter', sans-serif;
     color:darkturquoise;
-  padding-top: 10px;
+  
     text-align: center;
     
 }
